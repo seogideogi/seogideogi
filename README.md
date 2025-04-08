@@ -2,7 +2,6 @@
 
 **슬로건:** Wisdom in Data, Joy in Insights  
 **연락처:**  
-- 전화: 010-6415-1863  
 - 이메일: rhodalee78@gmail.com  
 - 포트폴리오: [portfolio.github.com](http://portfolio.github.com)
 
