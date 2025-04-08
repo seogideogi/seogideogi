@@ -3,7 +3,6 @@
 **슬로건:** Wisdom in Data, Joy in Insights  
 **연락처:**  
 - 이메일: rhodalee78@gmail.com  
-- 포트폴리오: [portfolio.github.com](http://portfolio.github.com)
 
 **[이력서 보기](#)** | **[경력 명세서 보기](#)**
 
