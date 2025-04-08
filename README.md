@@ -1,7 +1,3 @@
-제공해주신 자료를 바탕으로 깃허브 프로필 README.md에 채울 내용을 요약해 드리겠습니다.
-
-**1. 상단:**
-
 *   **이름:** Data Ananda (PRNT)
 *   **슬로건:** Wisdom in Data, Joy in Insights
 *   **프로필 사진:** (제공된 이미지 참조)
