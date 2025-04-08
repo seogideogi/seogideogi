@@ -66,7 +66,6 @@
 - SCJP (Sun Certified Java Programmer)
 - 나무의사 1차 합격
 - 식물보호산업기사
-- 그래프 네트워크 기반 사기 탐지 (개인)
 
 ---
 
