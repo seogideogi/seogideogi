@@ -1,4 +1,4 @@
-# Data Ananda (PRNT)
+# Data Ananda
 ![프로필 사진](insert-your-image-link-here)
 
 **슬로건:** Wisdom in Data, Joy in Insights  
