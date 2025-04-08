@@ -13,15 +13,8 @@
 ## 자기소개
 **핵심 키워드:** 15년 데이터 내공 + GNN 융합, 데이터 혁신  
 
-### 강점 어필:
-- **데이터 과학/머신러닝:** Python 기반 데이터 분석 및 머신러닝 모델링 전문가. SQL과 그래프 증
-
-- OCP (Oracle Certified Professional)
-- SCJP (Sun Certified Java Programmer)
-- 나무의사 1차 합격
-- 식물보호산업기사
-- 그래프 네트워크 기반 사기 탐지 (개인)
-
+### 강점 :
+- **데이터 과학/머신러닝:** Python 기반 데이터 분석 및 머신러닝 모델링 전문가. SQL과 그래프 기반 데이터 분석까지 가능
 ---
 
 ## 경력
@@ -30,7 +23,7 @@
 **프로젝트:** 금융사기 탐지 (데이터사이언티스트 3기 최종 프로젝트) (2024.10 - 2025.04)  
 - **기술 스택:** GNN, CatBoost, Python, PyTorch, PyG, MariaDB, SQL  
 - **설명:** 그래프 네트워크 기반 금융사기 탐지 모델 개발 및 피처 엔지니어링 수행.  
-- **성과:** GNN과 CatBoost를 융합한 앙상블 모델 가능성 확인, 높은 Precision@K 및 F1-Score@K 달성.
+- **성과:** GNN과 CatBoost를 융합한 앙상블 모델 가능성 확인, 높은 Precision@K 및 F1-Score@K 평가가.
 
 ### 위즈베이스 (2015.08 - 2018.02)
 **역할:** DB 컨설팅 책임연구원  
@@ -67,7 +60,7 @@
 
 ---
 
-## 프로젝트
+## 자격증
 
 - OCP (Oracle Certified Professional)
 - SCJP (Sun Certified Java Programmer)
