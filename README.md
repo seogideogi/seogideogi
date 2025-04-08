@@ -1,4 +1,4 @@
-# 📊 데이터 속 지혜 , 인사이트 속 즐거움 | Data Scientist & Data Architect
+# 📊 데이터 안의 지혜 , 인사이트 속 즐거움 | Data Scientist & Data Architect
 
 **안녕하세요! 15년 이상의 데이터 경험**을 바탕으로 데이터 혁신을 현실로 만들어내는 데이터 전문가입니다. 🚀
 
