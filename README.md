@@ -57,5 +57,5 @@
 ---
 **📊 프로젝트 (Project)**
 ------
-![프로젝트_썸네일_포뮬라](https://github.com/user-attachments/assets/a139b7b5-a4c5-4370-b35f-f0ce21734802)
+![프로젝트_썸네일_포뮬라](https://github.com/seogideogi/4mula)
 - GAT & CATBoost 모델 활용. 금융사기 데이터 분석 및 비교
