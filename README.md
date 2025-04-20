@@ -48,7 +48,7 @@
 
 * **LinkedIn:** [링크드인 프로필 URL]
 * **Careerly:** [커리어리 프로필 URL]
-* **Blog:** [블로그 URL (선택 사항)]
+* **Blog:** ![블로그 URL] (https://velog.io/@rhodalee/posts)
 
 **📫 Let's Connect!**
 
