@@ -22,6 +22,8 @@
 * **Data Architecture:** Data Modeling, Data Standardization, Metadata Management, Data Migration Planning / DB Design & Consulting / Graph Database
 * **SQL:** SQL, SQL Tuning, PL/SQL (80%)
 
+* ![**SQL:** SQL, SQL Tuning, PL/SQL (80%)](https://velog.io/@rhodalee/Oracle-SQL-%ED%8A%9C%EB%8B%9D-%EB%B0%8F-%EC%84%B1%EB%8A%A5-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EA%B2%BD%ED%97%98-%ED%8F%AC%ED%8A%B8%ED%8F%B4)
+
 **Programming Languages & Tools:**
 * **Languages:** Java, JSP, XML, Ajax, Lafj (70%)
 * **Tool:** DA#, ER-WIN, Orange, TOAD, SQL Developer, Eclipse, Git, SVN, CVS, Resin, Tomcat, Weblogic, JEUS, STRUTS, Conda, Conda-pack, CUDA Toolkit
