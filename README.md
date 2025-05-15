@@ -20,7 +20,7 @@
 **Data Architecture & Database:**
 * **Database:** Oracle DB, Oracle Exadata, MySQL, MS-SQL, SYBASE, ALTIBASE
 * **Data Architecture:** Data Modeling, Data Standardization, Metadata Management, Data Migration Planning / DB Design & Consulting / Graph Database
-* ![**SQL:** SQL, SQL Tuning, PL/SQL (80%)](https://velog.io/@rhodalee/PortfolioofExperienceinOracleSQLTuningandPerformanceMonitoring)
+* **SQL:** SQL, SQL Tuning, PL/SQL (80%)] (https://velog.io/@rhodalee/PortfolioofExperienceinOracleSQLTuningandPerformanceMonitoring)
 
 **Programming Languages & Tools:**
 * **Languages:** Java, JSP, XML, Ajax, Lafj (70%)
